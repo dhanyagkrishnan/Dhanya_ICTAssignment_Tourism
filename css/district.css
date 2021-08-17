@@ -1,0 +1,17 @@
+.districthead
+{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: brown;
+}
+.districtimg
+{
+    height: 400px;
+    width:1000px;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}

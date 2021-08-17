@@ -1,0 +1,90 @@
+.carmargin
+{
+   
+    
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+a{
+ text-decoration: none;
+float: right;
+margin-right: 35px;
+text-align-last: right;
+margin-left: 50px;
+}
+.logo{
+    height: 40px;
+}
+.details
+{
+    margin-left: 10%;
+    margin-right: 15%;
+    margin-top: 20px;
+    text-shadow: 1em;
+    font-weight: bold;
+    font-style: italic;
+    color: black
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 1.5em;
+    margin-top: 20%;
+}
+.first
+{
+margin-left: 25%;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+ font-style: italic;
+ color: darksalmon;   
+}
+h1:hover
+{
+    color: gold;
+}
+.details:hover
+{
+    color: gold;
+}
+.carousel-item img{
+    height:400px;
+    width:700px;
+    margin-left: 10%;
+    margin-right: 30%;
+    padding-left: 3%;
+
+}
+.mb-3 row
+{
+    padding-left: 20%;
+}
+.login
+{
+   
+    border:2px solid lightgreen;
+    background-color: rgb(88, 86, 92);
+    padding-left: 30%;
+    border-radius: 1.5em;
+    
+    padding-right: 30%;
+    opacity: .75;
+
+}
+.but
+{
+    width:5em;
+    margin-left: 35%;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+ }
+ 
+ .row > div[class*='col-'] {
+   display: flex;
+ }
+ 
+footer p{
+    text-align: center;
+}
